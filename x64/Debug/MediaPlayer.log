@@ -1,0 +1,4 @@
+﻿  Origem.c
+C:\Users\victo\source\repos\MediaPlayer\MediaPlayer\Origem.c(95,20): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'size_t'
+C:\Users\victo\source\repos\MediaPlayer\MediaPlayer\Origem.c(95,20): message : considere usar '%zd' na cadeia de formato
+  MediaPlayer.vcxproj -> C:\Users\victo\source\repos\MediaPlayer\x64\Debug\MediaPlayer.exe
